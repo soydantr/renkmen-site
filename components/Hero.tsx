@@ -1,0 +1,1 @@
+// Placeholder content for Hero.tsx in components
