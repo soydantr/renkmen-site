@@ -1,2 +1,2 @@
 # Renkmen D.O.O. Website
-Live site prototype for AI-powered agency.
+This is the official AI agency site built with Next.js and Tailwind CSS.
