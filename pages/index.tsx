@@ -1,3 +1,4 @@
+
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
@@ -26,7 +27,7 @@ export default function Home() {
             <a href="#" className={styles.button}>Get in Touch</a>
           </div>
           <div className={styles.robot}>
-            <img src="/robot.png" alt="Robot illustration" width="400" height="400" />
+            <img src="/robot.png" alt="Robot illustration" />
           </div>
         </section>
         <footer className={styles.footer}>
